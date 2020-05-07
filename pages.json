@@ -1,0 +1,24 @@
+{
+	"pages": [{
+		"path": "pages/home/index",
+		"style": {
+			// #ifndef H5
+			"navigationStyle": "custom",
+			// #endif
+			"enablePullDownRefresh": true,
+			"navigationBarTitleText": "我的余额"
+		}
+	}, {
+		"path": "pages/withdraw/index",
+		"style": {
+			"enablePullDownRefresh": true,
+			"navigationBarTitleText": "余额提现"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
