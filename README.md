@@ -12,12 +12,12 @@
 
 github使用方法
 ~~~
-https://github.com/lanyanxi/hDesign-Money.git
+https://github.com/lanyanxi/HDesign-Money.git
 ~~~
 
 uniapp使用方法
 ~~~
-https://ext.dcloud.net.cn/plugin?
+https://ext.dcloud.net.cn/plugin?id=1773
 ~~~
 
 
